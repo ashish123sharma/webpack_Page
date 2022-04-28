@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color:#c78b36;
+    font:60px;
+  }
+  h2{
+    text-align: center;
+
+  }
+.data{  
+  text-align: justify;
+  color:#ffbe5a;
+  text-align: center;
+
+}
+   
+  
+  .des{
+    text-align: center;
+          margin:auto;
+          font-size: large;
+          color:#737c88;
+          margin-left: 30px;
+          margin-right:30px;                 
+  }
+
+  #container{
+    /* border:1px solid black; */
+    height:350px;
+    width:90%;
+    display:flex;
+    margin:auto;
+    margin-top: 70px;
+  }
+  .card{
+          height:100%;
+          width:30%;
+          /* border:1px solid red; */
+          margin:auto;
+
+
+  }
